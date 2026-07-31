@@ -1,0 +1,16 @@
+﻿cff-version: 1.2.0
+message: "If you use this analysis code, please cite the associated manuscript."
+title: "Coupled strain in postgraduate medical training: a public-data linkage study of trainer pressure, trainee adverse training signals, and NHS organisational stress signals, 2021-2026"
+authors:
+  - family-names: Jin
+    given-names: Zhi
+    email: jinzhi1@csmu.edu.cn
+  - family-names: Sun
+    given-names: Hua
+    email: mssun@csmu.edu.cn
+  - family-names: Ma
+    given-names: Wanjun
+    email: wanjun@hnfnu.edu.cn
+year: 2026
+repository-code: "https://github.com/Hajimi-Sudo/ctess-public-training-strain"
+license: MIT

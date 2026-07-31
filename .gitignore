@@ -1,0 +1,40 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Generated analysis outputs
+06_analysis/pilot/*.csv
+06_analysis/pilot/*.json
+06_analysis/pilot/*.md
+06_analysis/pilot/figures/
+06_analysis/pilot/figures_publication/
+05_data/
+
+# Manuscript and rendered paper artifacts are not part of this code repository
+07_manuscript/
+docs/
+*.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large local backups and temporary bundles
+*.tgz
+*.zip
+*_backup*
+candidate_framework_*/
